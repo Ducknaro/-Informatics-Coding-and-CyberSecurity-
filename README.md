@@ -3,7 +3,7 @@
 ## Table of Contents 
 
 - In the IT Security folder you can find links to Ebooks, Links, YouTube Videos
-- In the Program folder you can find Ebooks, Links, YouTube Videos for the most important programming language
+- In the Programming folder you can find Ebooks, Links, YouTube Videos for the most important programming language
 
 
 
