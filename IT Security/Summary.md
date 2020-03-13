@@ -1,5 +1,8 @@
 # Contents
 
+## General Content (Forums, WebSites, etc...)
+- https://www.hackingloops.com/
+
 ## E-books
 
 ## Links
