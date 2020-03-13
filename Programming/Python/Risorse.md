@@ -1,1 +1,0 @@
-Risorse per python:
