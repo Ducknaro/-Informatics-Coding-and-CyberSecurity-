@@ -2,6 +2,8 @@
 
 ## General Content (Forums, WebSites, etc...)
 - https://www.hackingloops.com/
+- https://null-byte.wonderhowto.com
+- https://www.jhackers.it/
 
 ## E-books
 
