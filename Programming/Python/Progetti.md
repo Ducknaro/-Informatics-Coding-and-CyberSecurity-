@@ -1,7 +1,7 @@
 # Progetti interessanti da realizzare usare python:
 - Contatore di iscritti per YouTube: https://www.youtube.com/watch?v=jaxjVqgLEs0&list=WL&index=386&t=0s
 - Semplice serve in python: https://www.youtube.com/watch?v=hFNZ6kdBgO0&list=WL&index=385&t=0s
-- Crea un ChatBot con Chatterbot: youtube.com/watch?v=oskYHwhpNsw
+- Crea un ChatBot con Chatterbot: https://www.youtube.com/watch?v=oskYHwhpNsw
 - Mandare le e-mail usando python: https://www.youtube.com/watch?v=nKNqNrdUtZU&list=WL&index=383&t=0s
 - Riconsocere la scrittura usando TensorFlow: https://www.youtube.com/watch?v=rml9oBQT8rw&list=WL&index=382&t=0s
 - Come creare file .exe dai tuoi programmi in python: https://www.youtube.com/watch?v=BYtSNfEacSo&t=333s
